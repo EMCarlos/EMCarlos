@@ -8,6 +8,7 @@ I'm a mechanical engineer, working as Frontend Developer mostly with [React](htt
 
 ### About me
 
+- :palm_tree: I was born and raised near beautiful beaches, and the one on the right is a special little spot.
 - :point_up: My beginnings where in Python and my first full project was [HealthySkin](https://www.healthyskinaruba.com).
 - :zap: I’m currently learning more about Full-Stack Development (MERN Stack) at [OdinProject](https://www.theodinproject.com/).
 - :soccer: I’m currently working @ [Librodepases](https://librodepases.com).
