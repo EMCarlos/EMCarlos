@@ -3,7 +3,7 @@ I'm a mechanical engineer, working as Frontend Developer mostly with [React](htt
 
 <br />
 
-<img align="right" alt="My picture" src="./assets/foto-perfil-cm.jpg" width="290px" height="330px"/>
+<img align="right" alt="My picture" src="./assets/my-paradise.jpg" width="270px" height="350px"/>
 
 
 ### About me
