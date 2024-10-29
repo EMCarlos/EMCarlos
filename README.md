@@ -6,7 +6,7 @@ I'm a mechanical engineer, working as Frontend Developer mostly with [React](htt
 <img align="right" alt="My picture" src="./assets/foto-perfil-cm.jpg" width="310px" height="350px" style="z-index: 5;"/>
 
 
-## About me
+# About me
 
 - :point_up: My beginnings where in Python and my first full project was [HealthySkin](https://www.healthyskinaruba.com).
 - :zap: I’m currently learning more about Full-Stack Development (MERN Stack) at [OdinProject](https://www.theodinproject.com/).
@@ -14,7 +14,7 @@ I'm a mechanical engineer, working as Frontend Developer mostly with [React](htt
 
 <br />
 
-## Find me at
+# Find me at
 <a href="mailto: carlosemc12@gmail.com">
   <img align="left" alt="Carlos Miquilena Gmail" width="30px" src="https://icongr.am/fontawesome/at.svg?size=134&color=612897" />
 </a>
