@@ -2,7 +2,9 @@
 I'm a mechanical engineer, working as Frontend Developer mostly with [React](https://reactjs.org). 
 
 <br />
-<img align="right" alt="My picture" src="./assets/picture.jpg" width="260px" height="380px" />
+<div style="float: right; margin: 10px; z-index: 5;">
+  <img alt="My picture" src="./assets/foto-perfil-cm.jpg" width="260px" height="380px" />
+</div>
 
 ## About me
 
