@@ -1,5 +1,5 @@
 # Hi, I'm Carlos Miquilena! :tophat:
-I'm a mechanical engineer, working as Frontend Developer mostly with [React](https://reactjs.org). 
+Mechanical Engineer turned Software Engineer, now focused on Frontend development with [React](https://reactjs.org).
 
 <br />
 
@@ -21,9 +21,6 @@ I'm a mechanical engineer, working as Frontend Developer mostly with [React](htt
 </a>
 <a href="https://github.com/EMCarlos?tab=repositories">
   <img align="left" alt="Carlos Miquilena Github Repos" width="30px" src="https://icongr.am/fontawesome/github.svg?size=134&color=612897" />
-</a>
-<a href="https://gitlab.com/EMCarlos">
-  <img align="left" alt="Carlos Miquilena GitLab Repos" width="30px" src="https://icongr.am/fontawesome/gitlab.svg?size=134&color=612897" />
 </a>
 <a href="https://www.linkedin.com/in/carlos-miquilena-castro-354359127">
   <img align="left" alt="Carlos Miquilena LinkedIn" width="30px" src="https://icongr.am/fontawesome/linkedin.svg?size=134&color=612897" />
