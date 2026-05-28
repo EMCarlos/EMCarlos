@@ -32,10 +32,10 @@ Mechanical Engineer turned Software Engineer, now focused on Frontend developmen
 <br/>
 <br/>
 
-![Top langs]([https://github-readme-stats.vercel.app/api/top-langs?username=EMCarlos&&langs_count=8&hide_border=true&theme=midnight-purple](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=emcarlos&bgcolor=000&titlecolor=fff))
+![Top langs](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=emcarlos&bgcolor=000&titlecolor=fff)
 
 ---
 
-![Stats]([https://github-readme-stats.vercel.app/api?username=EMCarlos&show_icons=true&hide=contribs,prs&hide_border=true&theme=midnight-purple](https://github-stats-extended.vercel.app/api?username=emcarlos))
+![Stats](https://github-stats-extended.vercel.app/api?username=emcarlos)
 
 
