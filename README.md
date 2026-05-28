@@ -31,11 +31,13 @@ Mechanical Engineer turned Software Engineer, now focused on Frontend developmen
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ![Top langs](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=emcarlos&bgcolor=000&titlecolor=fff)
 
 ---
 
-![Stats](https://github-stats-extended.vercel.app/api?username=emcarlos)
+![Stats](https://streak-stats.demolab.com/?user=EMCarlos&theme=default&hide_border=true)
 
 
