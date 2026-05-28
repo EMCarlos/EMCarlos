@@ -25,58 +25,17 @@ Mechanical Engineer turned Software Engineer, now focused on Frontend developmen
 <a href="https://www.linkedin.com/in/carlos-miquilena-castro-354359127">
   <img align="left" alt="Carlos Miquilena LinkedIn" width="30px" src="https://icongr.am/fontawesome/linkedin.svg?size=134&color=612897" />
 </a>
-<a href="https://www.instagram.com/carlos.miquilena/">
-  <img align="left" alt="Carlos Miquilena Instagram" width="30px" src="https://icongr.am/fontawesome/instagram.svg?size=134&color=612897" />
-</a>
 <a href="https://open.spotify.com/user/22thyqe7gp52cn5nch6bpuhni">
   <img align="left" alt="Carlos Miquilena Spotify" width="30px" src="https://icongr.am/fontawesome/spotify.svg?size=134&color=612897" />
 </a>
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
-## Languages and Tools learned by timeline
-<a href="https://www.python.org/" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
-</a>
-<a href="https://www.w3.org/html/" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html5">
-</a>
-<a href="https://www.w3schools.com/css/" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS">
-</a>
-<a href="https://www.javascript.com/" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
-</a>
-<a href="https://www.djangoproject.com/" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django">
-</a>
-<a href="https://reactjs.org/" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
-</a>
-<a href="https://redux.js.org" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux">
-</a>
-<a href="https://www.typescriptlang.org/" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript">
-</a>
-<a href="https://styled-components.com/" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" alt="Styled Components">
-</a>
-<a href="https://nodejs.org" target="blank">
-  <img height="35" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node JS">
-</a>
-
-<br/>
-<br/>
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=EMCarlos&&langs_count=8&hide_border=true&theme=midnight-purple)
+![Top langs]([https://github-readme-stats.vercel.app/api/top-langs?username=EMCarlos&&langs_count=8&hide_border=true&theme=midnight-purple](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=emcarlos&bgcolor=000&titlecolor=fff))
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=EMCarlos&show_icons=true&hide=contribs,prs&hide_border=true&theme=midnight-purple)
+![Stats]([https://github-readme-stats.vercel.app/api?username=EMCarlos&show_icons=true&hide=contribs,prs&hide_border=true&theme=midnight-purple](https://github-stats-extended.vercel.app/api?username=emcarlos))
 
 
