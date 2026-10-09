@@ -1,5 +1,5 @@
 # Hi, I'm Carlos Miquilena! :tophat:
-Mechanical Engineer turned Software Engineer, now focused on Frontend development with [React](https://reactjs.org).
+Mechanical Engineer turned Software Engineer, now focused on Full stack development.
 
 <br />
 
