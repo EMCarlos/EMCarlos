@@ -11,7 +11,7 @@ Mechanical Engineer turned Software Engineer, now focused on Full stack developm
 - :palm_tree: I was born and raised near beautiful beaches, and the one on the right is a special little spot.
 - :point_up: My beginnings where in Python and my first full project was [HealthySkin](https://www.healthyskinaruba.com).
 - :zap: Lifelong learner and AI enthusiast.
-- :soccer: I’m currently working @ [Librodepases](https://librodepases.com).
+- :soccer: I’m currently working @ [LDP](https://ldptech.ai) & [Arenga](https://arengastudio.com/en).
 
 <br />
 
