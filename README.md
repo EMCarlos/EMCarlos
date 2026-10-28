@@ -12,6 +12,9 @@ Mechanical Engineer turned Software Engineer, now focused on Full stack developm
 - :point_up: My beginnings where in Python and my first full project was [HealthySkin](https://www.healthyskinaruba.com).
 - :zap: Lifelong learner and AI enthusiast.
 - :soccer: I’m currently working @ [LDP](https://ldptech.ai) & [Arenga](https://arengastudio.com/en).
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=EMCarlos">
+</a>
 
 <br />
 
